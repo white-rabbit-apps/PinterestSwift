@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'PinterestSwift'
-  s.version          = '0.1.3'
+  s.version          = '0.1.4'
   s.summary          = 'A short description of PinterestSwift.'
 
 # This description is used to generate tags and improve search results.
